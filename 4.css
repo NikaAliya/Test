@@ -1,0 +1,19 @@
+.country-card {
+  border: 1px solid #db1111;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.country-card h2 {
+  margin-top: 0;
+}
+
+.country-card ul {
+  margin: 0;
+  padding: 0;
+}
+
+.country-card li {
+  list-style-type: none;
+}
